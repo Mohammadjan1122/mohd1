@@ -287,7 +287,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;92m●══════════════════◄►══════════════════●"
 
-	jalan('           \033[1;91mKabir start cloning Wait...')
+	jalan('           \033[1;91mMohammad start cloning Wait...')
 	print  "  \033[1;92m ●══════════════════◄►══════════════════●" 
 
 	def main(arg):
@@ -530,7 +530,7 @@ _______¶¶¶_________¶______¶_________¶¶¶______
  
          Checkpoint ID Open After 7 Days
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....KABIR_H4CK_001....... \033[1;95m :
+: \033[1;91m ....SULTANI1122....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;91m binyamin Jan"""
